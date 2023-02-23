@@ -24,8 +24,8 @@ To get started with this project, you will need to have the following installed 
 
 To build and run the project, follow these steps:
 
-* Clone the repository
-* Navigate to the project directory: cd spring-boot-security-jwt
+* Clone the repository `git clone https://github.com/MO92hamed/Secured-Api-Spring-Security-jwt.git`
+* Navigate to the project directory: cd Secured-Api-Spring-Security-jwt
 * Build the project: mvn clean install
 * Run the project: mvn spring-boot:run
 
